@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 สวัสดีครับ ผม นวพล เหมหา (อัดฮา) 
 
-<!--
-**Nawapol029/Nawapol029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ผมกำลังศึกษาอยู่ระดับชั้น ปวช.2 แผนกเทคโนโลยีสารสนเทศ ที่วิทยาลัยเทคนิคกระบี่ 
+มีความสนใจในด้านเทคโนโลยีคอมพิวเตอร์และการสร้างเว็บไซต์ 🚀
 
-Here are some ideas to get you started:
+## 🌟 ข้อมูลส่วนตัว (About Me)
+- 🎓 **กำลังศึกษา:** วิทยาลัยเทคนิคกระบี่ (Krabi Technical College)
+- 💻 **สิ่งที่กำลังเรียนรู้:** HTML, CSS และการพัฒนาเว็บไซต์เบื้องต้น
+- 🎯 **เป้าหมาย:** พัฒนาทักษะด้านการเขียนโค้ดและนำไปต่อยอดในการทำงานจริง
+- ⚽ **งานอดิเรก:** เล่นฟุตบอลและกีฬาต่างๆ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ ทักษะและโปรแกรมที่ถนัด (Skills & Tools)
+- **Languages:** HTML, CSS
+- **Tools:** VS Code, GitHub
+- **Others:** Microsoft Office (Word, Excel, PowerPoint), การตัดต่อวิดีโอเบื้องต้น
+
+## 📫 ช่องทางการติดต่อ (Contact)
+- 📧 **อีเมล:** 68219010029@kbtc.ac.th
+- 📍 **ที่อยู่:** จ.กระบี่, ประเทศไทย
+
+---
+*⭐️ ขอบคุณที่แวะเข้ามาชมโปรไฟล์ของผมครับ!*
